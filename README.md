@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @916Guilherme
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning PHP and MySQL!
+- 🌱 I’m currently learning HTML, Css and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can reach me sending a direct on my Instagram @guilherme_mry
 
